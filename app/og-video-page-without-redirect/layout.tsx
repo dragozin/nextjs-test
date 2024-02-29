@@ -12,7 +12,6 @@ export default function RootLayout({
           property="og:video"
           content="http://s3.mds.yandex.net/trailers/test.mp4"
         />
-        <meta property="og:video:type" content="video/mp4" />
         <meta property="og:video:width" content="1920" />
         <meta property="og:video:height" content="1080" />
 
