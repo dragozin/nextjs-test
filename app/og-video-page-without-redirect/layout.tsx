@@ -16,9 +16,9 @@ export default function RootLayout({
       <meta property="og:image"
           content="https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/868926a8-a3e4-4524-90ff-d0e4b1f1ed86/1200x630" />
       <meta property="og:video"
-          content="http://s3.mds.yandex.net/trailers/test.mp4" />
+          content="https://s3.mds.yandex.net/trailers/test.mp4" />
       <meta property="og:video:secure_url"
-          content="http://s3.mds.yandex.net/trailers/test.mp4" />
+          content="https://s3.mds.yandex.net/trailers/test.mp4" />
       <meta property="og:video:type" content="video/mp4" />
 
       <body>{children}</body>
